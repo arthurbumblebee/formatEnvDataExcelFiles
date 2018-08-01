@@ -10,7 +10,7 @@ In here, I massage, curate and format excel data files containing environmental 
     * for each file:
         * Add two rows to the top of the file
             * Columns of row 1 are: location, latitude, and longitude
-            * And columns of row 2 are the respective location, latitude, and longitude values (see below)
+            * And columns of row 2 are the respective location, latitude, and longitude values
 ￼
 * Each file will now be renamed according to the place where its data was collected e.g Bigelow.csv
 * Additionally, try and keep the time data format in the series to 24hour format (I later added support for 12hour format). The time will then be formatted into the format "YYYY-MM-DD HH:mm:ss"
